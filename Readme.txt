@@ -11,13 +11,6 @@
 *** Don't forget to add a valid email adress or else you will get an unhandled exception which we didn't take care of.
 *** Go to Controllers > Home Controller > Line 44 and add valid email adresses.
 
-------------------------------
-Team Targaryen members:
-Oana (C# Ninja)
-Nana (C# Ninja)
-Andrei (Front-end Ninja)
-Angelo (Project Manager & Full Stack Ninja)
--------------------------------
 
 
 *** Final project built under the curriculum of the Informal School of IT Cluj-Napoca (.NET Web development Group 6)
